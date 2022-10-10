@@ -1,0 +1,5 @@
+server:
+  port: 9001
+
+second.service: http://localhost:9002/secondService/get
+third.service: http://localhost:9003/thirdService/post
